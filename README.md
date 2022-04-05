@@ -1,8 +1,8 @@
-### Olá! Eu sou o Gabriel 🖖
+### Olá! Eu sou a Priscila 🖖
 
-- 🔭 Hoje trabalho com full stack 
-- 🌱 Estudando PHP e Javascript
-- 😄 Pronouns: ele/dele
+- 🔭 Futura Desenvolvendora Front-End
+- 🌱 Estudando HTML e CSS
+- 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/devpriscila">
